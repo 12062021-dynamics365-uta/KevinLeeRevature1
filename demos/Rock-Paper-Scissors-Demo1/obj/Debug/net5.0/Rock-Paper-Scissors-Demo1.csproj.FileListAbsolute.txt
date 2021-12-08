@@ -1,0 +1,16 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.exe
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.genruntimeconfig.cache
