@@ -1,0 +1,15 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.exe
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\ref\DataTypeAndVariables.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\bin\Debug\net5.0\DataTypeAndVariables.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\ref\DataTypeAndVariables.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables\obj\Debug\net5.0\DataTypeAndVariables.genruntimeconfig.cache

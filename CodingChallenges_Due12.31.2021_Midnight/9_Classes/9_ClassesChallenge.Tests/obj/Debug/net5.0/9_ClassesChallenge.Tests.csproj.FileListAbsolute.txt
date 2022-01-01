@@ -1,0 +1,5 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_ClassesChallenge.Tests\obj\Debug\net5.0\9_ClassesChallenge.Tests.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_ClassesChallenge.Tests\obj\Debug\net5.0\9_ClassesChallenge.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_ClassesChallenge.Tests\obj\Debug\net5.0\9_ClassesChallenge.Tests.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_ClassesChallenge.Tests\obj\Debug\net5.0\9_ClassesChallenge.Tests.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_ClassesChallenge.Tests\obj\Debug\net5.0\9_ClassesChallenge.Tests.csproj.CoreCompileInputs.cache

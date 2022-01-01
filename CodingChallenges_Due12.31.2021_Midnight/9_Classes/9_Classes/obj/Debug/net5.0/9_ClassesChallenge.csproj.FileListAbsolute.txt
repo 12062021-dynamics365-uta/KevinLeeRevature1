@@ -1,0 +1,16 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.exe
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\ref\9_ClassesChallenge.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\bin\Debug\net5.0\9_ClassesChallenge.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\ref\9_ClassesChallenge.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\9_Classes\9_Classes\obj\Debug\net5.0\9_ClassesChallenge.genruntimeconfig.cache

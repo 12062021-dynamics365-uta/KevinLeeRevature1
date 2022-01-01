@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DataTypeAndVariables.Test
+build_property.ProjectDir = C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\3\DataTypeAndVariables.Test\

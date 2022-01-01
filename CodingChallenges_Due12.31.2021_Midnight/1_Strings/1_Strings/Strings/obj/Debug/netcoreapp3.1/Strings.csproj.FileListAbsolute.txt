@@ -1,0 +1,28 @@
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\klee5\OneDrive\바탕 화면\Revature 12-06-2021\12062021-batch-repo-main\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\CodingChallenges_Due12.31.2021_Midnight\1_Strings\1_Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
