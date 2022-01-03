@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj": {}
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj",
         "projectName": "7_GuessingGameChallenge.Tests",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\7_GuessingGameChallenge.Tests.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGameChallenge.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj": {
-                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj"
+              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj": {
+                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj",
         "projectName": "7_GuessingGameChallenge",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\CodingChallenges_Due12.31.2021_Midnight\\7_GuessingGame\\7_GuessingGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\bin\Debug\net5.0\KoreanStore.Storage.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\bin\Debug\net5.0\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\bin\Debug\net5.0\ref\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\bin\Debug\net5.0\KoreanStore.Storage.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\ref\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Storage\obj\Debug\net5.0\KoreanStore.Storage.csproj.AssemblyReference.cache

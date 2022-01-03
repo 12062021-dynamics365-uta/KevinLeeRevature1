@@ -1,0 +1,15 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\KoreanStore.Domain.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\KoreanStore.Domain.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\ref\KoreanStore.Domain.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\KoreanStore.Domain.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\bin\Debug\net5.0\KoreanStore.Storage.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.csproj.CopyComplete
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\ref\KoreanStore.Domain.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Domain\obj\Debug\net5.0\KoreanStore.Domain.pdb

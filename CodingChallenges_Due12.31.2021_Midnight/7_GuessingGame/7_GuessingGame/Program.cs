@@ -7,10 +7,40 @@ namespace _7_GuessingGameChallenge
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Kevin's magic number guess game!\n" +
-                 "Type yournumber (1 - 100)");
+            Console.WriteLine("Welcome to the Kevin's magic number guess game! Type your number (0 - 100)");
+            int userInput;
+            userInput = GetUsersGuess();
+            Console.WriteLine("You guessed: " + userInput);
+            int magicNumber = GetRandomNumber();
+            Console.WriteLine("The computer guessed: " + magicNumber);
+            int compTest = CompareNums(userInput, magicNumber);
+            Console.WriteLine("Comparsion Test: " + compTest);
 
-            
+            if (compTest > 0) 
+
+                Console.WriteLine("{0} is greater than {1}", magicNumber, userInput);
+
+            else if (compTest < 0)
+
+                Console.WriteLine("{0} is less than {1}", magicNumber, userInput);
+
+            else
+                Console.WriteLine("{0} is equal to {1}", magicNumber, userInput);
+
+
+           /* if (randomNum > guess)
+            {
+                return compVal = -1;
+            }
+            else if (randomNum == guess)
+            {
+                return compVal = 0;
+            }
+            else
+            {
+                return compVal = 1;
+            }*/
+
 
         }
 
@@ -23,7 +53,8 @@ namespace _7_GuessingGameChallenge
             //throw new NotImplementedException();
             int magicNumber;
             Random random = new Random();
-            return magicNumber = random.Next(0, 101);
+            return magicNumber = random.Next(0, 100);
+            
 
 
         }
@@ -36,11 +67,10 @@ namespace _7_GuessingGameChallenge
         /// <returns></returns>
         public static int GetUsersGuess()
         {
-            throw new NotImplementedException();
-           /* int guess;
-            guess = Convert.ToInt32(Console.ReadLine());
+           // throw new NotImplementedException();
             
-            if(guess != magicNumber)*/
+            return Convert.ToInt32(Console.ReadLine());            
+            
         }
 
         /// <summary>
@@ -56,20 +86,24 @@ namespace _7_GuessingGameChallenge
         /// <returns></returns>
         public static int CompareNums(int randomNum, int guess)
         {
-            throw new NotImplementedException();            
+            int compVal;
+            //throw new NotImplementedException();
+           // return  compVal = randomNum.CompareTo(guess);
 
-           /* if (randomNum > guess)
-            {
-                return -1;               
-            }
-            else if (randomNum == guess)
-            {
-                return 0;
-            }
-            else
-            {
-                return 1;
-            }*/
+
+             if (randomNum > guess)
+             {
+                 return compVal = -1;               
+             }
+             else if (randomNum == guess)
+             {
+                 return compVal = 0;
+             }
+             else
+             {
+                 return compVal = 1;
+             }
+            return compVal;
         }
 
         /// <summary>
@@ -80,8 +114,8 @@ namespace _7_GuessingGameChallenge
         /// <exception cref="NotImplementedException"></exception>
         public static bool PlayGameAgain()
         {
-            //throw new NotImplementedException();
-            bool playAgain;                      
+            throw new NotImplementedException();
+            /*bool playAgain;                      
             int playAgainConvertedNumber = 1;
 
                 Console.WriteLine("Do you want to play again? \n[1]Yes \n[2]No");
@@ -99,7 +133,7 @@ namespace _7_GuessingGameChallenge
                     default:
                         Console.WriteLine("Invalid input! Please type [1] for Yes, or [2]for no.");
                         break;
-                }              
+                }   */           
                 
            
         }
