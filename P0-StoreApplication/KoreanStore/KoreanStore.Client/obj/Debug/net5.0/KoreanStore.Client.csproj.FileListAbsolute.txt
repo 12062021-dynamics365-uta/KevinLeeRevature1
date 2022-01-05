@@ -25,3 +25,30 @@ C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-S
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\ref\KoreanStore.Client.dll
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.pdb
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.genruntimeconfig.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.exe
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\ref\KoreanStore.Client.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Client.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Domain.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Storage.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Domain.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\bin\Debug\net5.0\KoreanStore.Storage.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.csproj.CopyComplete
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\ref\KoreanStore.Client.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\P0-StoreApplication\KoreanStore\KoreanStore.Client\obj\Debug\net5.0\KoreanStore.Client.genruntimeconfig.cache

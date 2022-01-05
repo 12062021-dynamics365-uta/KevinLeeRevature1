@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WrRf9T2aL/DidKJa7rR94XoOyoFMUU+QMQ+9iUixDfkVlfFdsGS3edFKRE4by0sLGeypFJWX2GdWqId9xIpbUA==",
+  "dgSpecHash": "P47UB/9OeteEX+38WXD+sOtMQcCaDm3DwmFVx2N8ec3LJfvcBOP1szoVMozOZ5XTNhNT3tqVZVtlC+1uYsmctg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Testing\\KoreanStore.Testing.csproj",
+  "projectFilePath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Testing\\KoreanStore.Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klee5\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\klee5\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

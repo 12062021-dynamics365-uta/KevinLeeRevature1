@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vbTroJJEglCVBcB/y6K/HrWTg7G7Sw8DXi/oRVmB/BW/VeSAoiWUKqNoiXl/qj7Sm2fNlwJOIJgv41g3vRnyrg==",
+  "dgSpecHash": "9KtIjVpnYhJCLFaKNcUTMJyaY8Pwg/umPBD9ZJ6bKiof+E/FMECOHdk9hpmkLBHW2yZ4EWko+GPNvFPXfzcK4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
+  "projectFilePath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klee5\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\klee5\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

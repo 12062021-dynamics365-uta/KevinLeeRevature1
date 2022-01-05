@@ -205,8 +205,7 @@ namespace KoreanStore.Client
         //The customer chooses the location 
         static int selectStoreMenu()
         {
-           
-            
+
             ShoppingLogic shoppingLogic = new ShoppingLogic();
             
             Console.WriteLine("Please choose one of the store location or press [0] to go back to store main menu.");
@@ -214,6 +213,8 @@ namespace KoreanStore.Client
             string selectStoreMenuInput;
             bool selectStoreMenuConverted = false;
             int selectStoreMenuConvertedNumber = 0;
+
+            
             do
             {
                 selectStoreMenuInput = Console.ReadLine();
@@ -228,7 +229,7 @@ namespace KoreanStore.Client
             } while (!selectStoreMenuConverted || selectStoreMenuConvertedNumber < 0 || selectStoreMenuConvertedNumber > 4);
 
             int sId = selectStoreMenuConvertedNumber;
-           string sLocation = null;
+           string sLocation = "";
             //selectStoreMenuConvertedNumber = shoppingLogic.storeList();
             
            if(selectStoreMenuConvertedNumber == 0)
@@ -249,7 +250,8 @@ namespace KoreanStore.Client
             {
              ShoppingLogic shoppingLogic = new ShoppingLogic();
             //Console.WriteLine(shoppingLogic.storeLocation());
-             Console.WriteLine("Welcome to our store #" + sId + ". " + sLocation + " area. Please choose the following " +
+            Console.WriteLine(sLocation);
+            Console.WriteLine("Welcome to our store #" + sId + ". " + sLocation + " area. Please choose the following " +
                      "\n[1]To do shopping \n[2]To look the past purchase of a certain store \n[0]Return to the Main menu");
              string chosenStoreMenuInput;
              bool chosentStoreMenuConverted = false;
@@ -338,8 +340,7 @@ namespace KoreanStore.Client
                   {
                       //To add products in the cart
                       case 1:
-                          customerAddProducts();
-                    
+                          customerAddProducts();                    
                     break;
 
                       //To remove products in the cart
@@ -450,7 +451,7 @@ namespace KoreanStore.Client
         }
 
         //Customer Proceed to the checkout
-       /* static void checkoutMenu()
+        /*static void checkoutMenu()
          {
              string customerCheckoutMenuInput;
              bool checkoutMenuInput = false;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj": {}
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
         "projectName": "KoreanStore.Storage",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\KoreanStore.Storage.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\P0-StoreApplication\\KoreanStore\\KoreanStore.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",

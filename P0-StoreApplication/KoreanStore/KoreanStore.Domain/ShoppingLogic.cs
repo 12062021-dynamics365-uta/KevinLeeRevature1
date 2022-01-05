@@ -60,7 +60,7 @@ namespace KoreanStore.Domain
       public void storeList()
         {
             int sId = 0;
-            string sLocation = null;
+           string sLocation = null;
             string query = $"SELECT * FROM Store";
             connection.Open();
             SqlCommand cmd = new SqlCommand(query, connection);

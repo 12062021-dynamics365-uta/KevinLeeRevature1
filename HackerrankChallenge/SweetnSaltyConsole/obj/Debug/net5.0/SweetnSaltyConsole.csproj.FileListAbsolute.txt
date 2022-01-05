@@ -1,0 +1,16 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.exe
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.runtimeconfig.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.runtimeconfig.dev.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\ref\SweetnSaltyConsole.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\bin\Debug\net5.0\SweetnSaltyConsole.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\ref\SweetnSaltyConsole.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.genruntimeconfig.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\HackerrankChallenge\SweetnSaltyConsole\obj\Debug\net5.0\SweetnSaltyConsole.csproj.AssemblyReference.cache

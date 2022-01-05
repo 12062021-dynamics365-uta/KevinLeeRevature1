@@ -10,15 +10,21 @@ namespace KoreanStore.Domain
     {
         public string StoreLocation { get; set; }
         public int StoreId { get; set; }
-
-        public Store ()
-        { }
+        public List<Product> products { get; set; }
+        
 
         
         public Store(int sId, string sLocation)
         {
             this.StoreId = sId;
             this.StoreLocation = sLocation;
-        }      
+            products = new List<Product>();
+        }
+
+        public Store()
+        {
+            products = new List<Product>();
+
+        }       
     }
 }
