@@ -1,0 +1,16 @@
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.exe
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.deps.json
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.runtimeconfig.json
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.runtimeconfig.dev.json
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.dll
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\ref\Migratory Birds.dll
+C:\Users\klee5\source\repos\Migratory Birds\bin\Debug\net5.0\Migratory Birds.pdb
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.csproj.AssemblyReference.cache
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.AssemblyInfoInputs.cache
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.AssemblyInfo.cs
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.csproj.CoreCompileInputs.cache
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.dll
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\ref\Migratory Birds.dll
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.pdb
+C:\Users\klee5\source\repos\Migratory Birds\obj\Debug\net5.0\Migratory Birds.genruntimeconfig.cache
