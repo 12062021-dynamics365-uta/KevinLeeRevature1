@@ -1,0 +1,15 @@
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\ref\SweetnSaltyDbAccess.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.csproj.CopyComplete
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\ref\SweetnSaltyDbAccess.dll
+C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.pdb
