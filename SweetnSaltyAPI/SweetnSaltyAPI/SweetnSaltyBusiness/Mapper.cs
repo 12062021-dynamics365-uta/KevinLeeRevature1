@@ -20,9 +20,20 @@ namespace SweetnSaltyBusiness //Worked with Bishal and Shamal
             };
         }
 
-        public Person EntityToListOfFlavors(SqlDataReader dr)
+        public List<Flavor> EntityToListOfFlavors(SqlDataReader dr)
         {
-            throw new NotImplementedException();
+            List<Flavor> flavors = new List<Flavor>();
+            while (dr.Read())
+            {
+                Flavor f = new Flavor()
+                {
+                    flavorID = dr.GetInt32(0),
+                    flavorName = dr.GetString(1),
+                };
+                flavors.Add(f);
+            }
+            return flavors;
+           // throw new NotImplementedException();
         }
 
         public Person EntityToPerson(SqlDataReader dr)
@@ -37,6 +48,24 @@ namespace SweetnSaltyBusiness //Worked with Bishal and Shamal
 
         public Person EntityToPersonFlavor(SqlDataReader dr)
         {
+            Person p = new Person();
+              List<Flavor> f = new List<Flavor>();
+            do
+            {
+                Flavor flavor = new Flavor()
+                {
+                    flavorID = dr.GetInt32(3),
+                    flavorName = dr.GetString(4),
+                };
+                f.Add(flavor);
+                p = new Person()
+                {
+                    personID = dr.GetInt32(0),
+                    personFname = dr.GetString(1),
+                    personLname = dr.GetString(2),
+
+                };
+            } while (dr.Read());
             throw new NotImplementedException();
         }
     }

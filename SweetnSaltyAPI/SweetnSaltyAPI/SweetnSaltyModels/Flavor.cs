@@ -10,6 +10,8 @@ namespace SweetnSaltyModels
     {
         public int flavorID { get; set; }
         public string flavorName { get; set; }
+
     }
-}
+
+  }
 

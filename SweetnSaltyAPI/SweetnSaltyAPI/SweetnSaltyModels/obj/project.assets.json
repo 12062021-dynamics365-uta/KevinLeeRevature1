@@ -322,11 +322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
+      "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
       "projectName": "SweetnSaltyModels",
-      "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
+      "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
       "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\obj\\",
+      "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",

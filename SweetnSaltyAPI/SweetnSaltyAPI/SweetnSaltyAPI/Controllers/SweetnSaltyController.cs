@@ -23,10 +23,10 @@ namespace SweetnSaltyAPI.Controllers //Worked with Bishal and Shamal
         [Route("postaflavor/{flavorName}")]
         public async Task<ActionResult<Flavor>> PostFlavor(string flavorName)
         {
-            Flavor f = await this._businessClass.PostFlavor(flavorName);
-            if (f is null)
+            Flavor f = await _businessClass.PostFlavor(flavorName);
+            if (f != null)
             {
-                return Created($"http:/5001/sweetnsalty/postaflavor/{f.flavorID}" , f);
+                return Created($"http:/5001/sweetnsalty/postaflavor/{f.flavorName}" , f);
             }
             else
             {
@@ -38,8 +38,8 @@ namespace SweetnSaltyAPI.Controllers //Worked with Bishal and Shamal
         [Route("postaperson/{personFname}/{personLname}")]
         public async Task<ActionResult<Person>> PostPerson(string personFname, string personLname)
         {
-            Person p = await this._businessClass.PostPerson(personFname, personLname);
-            if (p is null)
+            Person p = await _businessClass.PostPerson(personFname, personLname);
+            if (p != null)
             {
                 return Created($"http:/5001/sweetnsalty/postaperson/{p.personID}", p);
             }
@@ -53,14 +53,14 @@ namespace SweetnSaltyAPI.Controllers //Worked with Bishal and Shamal
         [Route("getaperson/{personFname}/{personLname}")]
         public async Task<ActionResult<Person>> GetPerson(string personFname, string personLname)
         {
-             Person p = await this._businessClass.GetPerson(personFname, personLname);
-             if (p is null)
+             Person p = await _businessClass.GetPerson(personFname, personLname);
+             if (p != null)
              {
                  return Ok(p);
              }
              else
              {
-                 return BadRequest();
+                 return NotFound();
 
             }
             //return null;
@@ -70,14 +70,14 @@ namespace SweetnSaltyAPI.Controllers //Worked with Bishal and Shamal
         [Route("getapersonandflavors/{personId}")]
         public async Task<ActionResult<Person>> GetPersonAndFlavors(int personId)
         {
-             Person p = await this._businessClass.GetPersonAndFlavors(personId);
-             if (p is null)
+             Person p = await _businessClass.GetPersonAndFlavors(personId);
+             if (p != null)
              {
                  return Ok(p);
              }
              else
              {
-                 return BadRequest();
+                 return NotFound();
             }
             //return null;
         }
@@ -86,16 +86,16 @@ namespace SweetnSaltyAPI.Controllers //Worked with Bishal and Shamal
         [Route("getlistofflavors")]
         public async Task<ActionResult<Flavor>> GetAllFlavors()
         {
-            return null;
-           /* List<Flavor> f = await this._businessClass.GetAllFlavors();
+            //return null;
+            List<Flavor> f = await _businessClass.GetAllFlavors();
             if (f.Count > 0)
             {
                 return Ok(f);
             }
             else
             {
-                return BadRequest();
-            }*/
+                return null;
+            }
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj": {}
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj",
         "projectName": "SweetnSaltyBusiness",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyBusiness\\SweetnSaltyBusiness.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyBusiness\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj": {
-                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj"
+              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj": {
+                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj"
               },
-              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
-                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj"
+              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
+                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj",
         "projectName": "SweetnSaltyDbAccess",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\SweetnSaltyDbAccess.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyDbAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
-                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj"
+              "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
+                "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
+    "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
+        "projectUniqueName": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
         "projectName": "SweetnSaltyModels",
-        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
+        "projectPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
         "packagesPath": "C:\\Users\\klee5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\KevinLeeRevature1\\12062021-batch-repo\\SweetnSaltyAPI-Assignment\\SweetnSaltyAPI\\SweetnSaltyModels\\obj\\",
+        "outputPath": "C:\\Users\\klee5\\OneDrive\\바탕 화면\\My batch\\KevinLeeRevature1\\SweetnSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klee5\\AppData\\Roaming\\NuGet\\NuGet.Config",

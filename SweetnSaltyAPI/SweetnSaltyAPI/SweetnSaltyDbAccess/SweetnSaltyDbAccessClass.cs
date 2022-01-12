@@ -21,7 +21,7 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
 
         public async Task<SqlDataReader> PostFlavor(string flavorName)
         {
-            string sqlQuery = $"INSERT INTO Flavor VALUES (@flavorName);";
+            string sqlQuery = $"INSERT INTO Flavor (flavorName) VALUES ('{flavorName}'); ";
 
             using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
             {
@@ -31,10 +31,10 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
                 {
                     await cmd.ExecuteNonQueryAsync();
                     string retrieveFlavor = "SELECT TOP 1 * FROM Flavor ORDER BY flavorID DESC";
-                    using (SqlCommand cmd1 = new SqlCommand(retrieveFlavor, _con))
+                    using (SqlCommand cmd2 = new SqlCommand(retrieveFlavor, _con))
                     {                        
 
-                        SqlDataReader dr = await cmd1.ExecuteReaderAsync();
+                        SqlDataReader dr = await cmd2.ExecuteReaderAsync();
                         return dr;
                     }
                 }
@@ -48,7 +48,8 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
 
         public async Task<SqlDataReader> PostPerson(string personFname, string personLname)
         {
-            string sqlQuery = $"INSERT INTO Person VALUES (@personFname, @personLname)";
+            string sqlQuery = $"INSERT INTO Person (personFname) (personLname) VALUES " +
+                $"(('{personFname}'), ('{personLname}'));";
 
             using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
             {
@@ -59,10 +60,10 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
                 {
                     await cmd.ExecuteNonQueryAsync();
                     string retrievePerson = "SELECT TOP 1 * FROM Person ORDER BY personID DESC";
-                    using (SqlCommand cmd1 = new SqlCommand(retrievePerson, _con))
+                    using (SqlCommand cmd2 = new SqlCommand(retrievePerson, _con))
                     {
 
-                        SqlDataReader dr = await cmd1.ExecuteReaderAsync();
+                        SqlDataReader dr = await cmd2.ExecuteReaderAsync();
                         return dr;
                     }
                 }
@@ -77,10 +78,18 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
         public async Task<SqlDataReader> GetAllFlavors()
         {
             string sqlQuery = "SELECT * FROM Flavor;";
-            using (SqlCommand cmd1 = new SqlCommand(sqlQuery, _con))
+            try
             {
-                SqlDataReader dr = cmd1.ExecuteReader();
-                return dr;
+                using (SqlCommand cmd1 = new SqlCommand(sqlQuery, _con))
+                {
+                    SqlDataReader dr = await cmd1.ExecuteReaderAsync();
+                    return dr;
+                }
+            }
+            catch(DbException ex)
+            {
+                Console.WriteLine($"There is an exception in SweetnSaltyBusinessClass.GetAllFlavors{ex}");
+                return null;
             }
             
         }
@@ -88,23 +97,42 @@ namespace SweetnSaltyDbAccess //Worked with Bishal and Shamal
         public async Task<SqlDataReader> GetPerson(string personFname, string personLname)
         {
             string sqlQuery = $"SELECT * FROM Person WHERE personFname = @personFname AND personLname = @personLname";
-            using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
+            try
             {
-                cmd.Parameters.AddWithValue("@personFname", personFname);
-                cmd.Parameters.AddWithValue("@personLname", personLname);
-                SqlDataReader dr = await cmd.ExecuteReaderAsync();
-                return dr;
+                using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
+                {
+                    cmd.Parameters.AddWithValue("@personFname", personFname);
+                    cmd.Parameters.AddWithValue("@personLname", personLname);
+                    SqlDataReader dr = await cmd.ExecuteReaderAsync();
+                    return dr;
+                }
+            }
+            catch (DbException ex)
+            {
+                Console.WriteLine($"There is an exception in SweetnSaltyBusinessClass.GetPerson{ex}");
+                return null;
             }
         }
 
             public async Task<SqlDataReader> GetPersonAndFlavors(int personId)
             {
-            string sqlQuery = $"SELECT Person.personId, Person.personFname, Person.personLname FROM Person INNER JOIN ON" 
-                + $" Flavor.flavorId = Person.personId";
-            using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
+            string sqlQuery = $"SELECT Person.personID, Person.personFname, Person.personLname FROM Person INNER JOIN ON" +
+                "INNER JOIN PersonFlavor ON Person.personID = PersonFlavor.personID" +
+                "INNER JOIN Flavor ON Flavor.flavorID = PersonFlavor.flavorID" +
+                "WHERE Person.personID = @personID";
+            try
             {
-                SqlDataReader dr = await cmd.ExecuteReaderAsync();
-                return dr;
+                using (SqlCommand cmd = new SqlCommand(sqlQuery, _con))
+                {
+                    cmd.Parameters.AddWithValue("@personID", personId);
+                    SqlDataReader dr = await cmd.ExecuteReaderAsync();
+                    return dr;
+                }
+            }
+            catch (DbException ex)
+            {
+                Console.WriteLine($"There is an exception in SweetnSaltyBusinessClass.GetPersonAndFlavors{ex}");
+                return null;
             }
         }
         

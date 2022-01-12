@@ -10,7 +10,7 @@ namespace SweetnSaltyDbAccess
 {
     public interface ISweetnSaltyDbAccessClass
     {
-        Task<SqlDataReader> PostFlavor(string flavor);
+        Task<SqlDataReader> PostFlavor(string flavorName);
         Task<SqlDataReader> PostPerson(string personFname, string personLname);
         Task<SqlDataReader> GetPerson(string personFname, string personLname);
         Task<SqlDataReader> GetPersonAndFlavors(int personId);

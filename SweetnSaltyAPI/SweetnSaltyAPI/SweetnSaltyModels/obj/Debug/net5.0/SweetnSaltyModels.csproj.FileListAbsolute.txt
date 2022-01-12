@@ -10,3 +10,15 @@ C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\Swee
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.dll
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\ref\SweetnSaltyModels.dll
 C:\Users\klee5\OneDrive\바탕 화면\KevinLeeRevature1\12062021-batch-repo\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.deps.json
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.AssemblyReference.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfoInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfo.cs
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.CoreCompileInputs.cache
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\klee5\OneDrive\바탕 화면\My batch\KevinLeeRevature1\SweetnSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.pdb

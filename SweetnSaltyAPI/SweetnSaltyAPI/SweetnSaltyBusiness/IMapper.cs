@@ -1,4 +1,5 @@
 ﻿using SweetnSaltyModels;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
@@ -13,6 +14,6 @@ namespace SweetnSaltyBusiness
 
         Person EntityToPersonFlavor(SqlDataReader dr);
 
-        Person EntityToListOfFlavors(SqlDataReader dr);
+        List<Flavor> EntityToListOfFlavors(SqlDataReader dr);
     }
 }

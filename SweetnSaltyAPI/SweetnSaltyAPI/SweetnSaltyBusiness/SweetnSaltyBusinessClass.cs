@@ -48,13 +48,13 @@ namespace SweetnSaltyBusiness //Worked with Bishal and Shamal
             }
         }
 
-        //Had some problems with this part
+        //Geting all of flavor registers by using list.
         public async Task<List<Flavor>> GetAllFlavors()
         {
-            /*List<Flavor> flavors = new List<Flavor>();
-             flavors = this._dbAccess.GetAllFlavors();
-             return Task.FromResult(flavors);*/
-            throw new NotImplementedException();
+            SqlDataReader dr = await _dbAccess.GetAllFlavors();
+            List<Flavor> f = this._mapper.EntityToListOfFlavors(dr);            
+             return f;
+            //throw new NotImplementedException();
 
         }
 
@@ -86,8 +86,6 @@ namespace SweetnSaltyBusiness //Worked with Bishal and Shamal
             {
                 return null;
             }
-        }
-
-      
+        }      
     }
 }
